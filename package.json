@@ -1,0 +1,26 @@
+{
+  "name": "porta_intro_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinCondon/porta_intro_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinCondon/porta_intro_express/issues"
+  },
+  "homepage": "https://github.com/KevinCondon/porta_intro_express#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node": "^12.10.0"
+  }
+}
